@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Bluefragments
 {
-    class Cryptography
+    class Cryptography205
     {
         //Create two functions that take a string and an array and returns a coded or decoded message.
 

@@ -28,27 +28,27 @@ namespace Bluefragments
 
                     if (programToRun == 1)
                     {
-                        var potatoFinder = new PotatoFinder();
+                        var potatoFinder = new PotatoFinder204();
                         potatoFinder.RunPotatoFinder();
                     }
                     else if (programToRun == 2)
                     {
-                        var cryptography = new Cryptography();
+                        var cryptography = new Cryptography205();
                         cryptography.Run();
                     }
                     else if (programToRun == 3)
                     {
-                        var isogram = new Isogram();
+                        var isogram = new Isogram104();
                         isogram.Run();
                     }
                     else if (programToRun == 4)
                     {
-                        var maskify = new Maskify();
+                        var maskify = new Maskify201();
                         maskify.Run();
                     }
                     else if (programToRun == 5)
                     {
-                        var findPrime = new FindPrime();
+                        var findPrime = new FindPrime203();
                         findPrime.Run();
                     }
                     else if(programToRun == 0)

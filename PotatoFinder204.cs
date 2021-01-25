@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace Bluefragments
 {
-    class PotatoFinder
+    class PotatoFinder204
     {
         // challenge-204
         // Create a function to return the amount of potatoes there are in a string.
